@@ -69,7 +69,7 @@ with col2:
         st.image(main_image_text, caption="Gambar Utama yang Diupload", use_container_width=True)
         
         # Teks watermark default
-        watermark_text = "Aku Sayang Islah"  # Teks yang sudah ditentukan
+        watermark_text = "MNC TV"  # Teks yang sudah ditentukan
         
         # Salin gambar utama yang diupload
         copied_image_text = main_image_text.copy()
